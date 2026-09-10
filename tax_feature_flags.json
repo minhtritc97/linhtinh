@@ -3,7 +3,7 @@
   "updatedAt": "2026-09-10",
   "features": {
     "consultationVatInput": {
-      "enabled": false,
+      "enabled": true,
       "allowAll": false,
       "employeeIds": [
         "1029"
