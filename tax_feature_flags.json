@@ -1,12 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-14",
   "features": {
     "consultationVatInput": {
       "enabled": true,
       "allowAll": false,
       "employeeIds": [
-        
+        "3500",
+        "0406",
+        "100138",
+        "8709",
+        "9335"
       ]
     }
   }
