@@ -4,7 +4,7 @@
   "features": {
     "consultationVatInput": {
       "enabled": true,
-      "allowAll": false,
+      "allowAll": true,
       "employeeIds": [
         "3500",
         "0406",
