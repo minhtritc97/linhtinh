@@ -1,3 +1,4 @@
 {
-  "blockServiceBelowMinPrice": false
+  "blockServiceBelowMinPrice": false,
+  "testEmployeeCodes": ["1029"]
 }
